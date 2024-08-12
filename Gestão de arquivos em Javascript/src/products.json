@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "TÊNIS RUNFALCON 3",
+    "description": "Para pés mais finos, recomendamos que compre um tamanho menor do que o de costume.",
+    "price": 399.99,
+    "thumbnail": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/f9d52817f7524d3fb442af3b01717dfa_9366/Tenis_Runfalcon_3_Preto_HQ3790_01_standard.jpg",
+    "code": "TEN_RUNFALCON",
+    "stock": 35
+  },
+  {
+    "id": 2,
+    "title": "TÊNIS RAPIDMOVE ADV",
+    "description": "O Torsion System oferece estabilidade dinâmica para movimentos multidirecionais.",
+    "price": 799.99,
+    "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d99e622de5314646825bf35481768a95_9366/Tenis_Rapidmove_ADV_Ouro_HP3269_01_standard.jpg",
+    "code": "TEN_RAPIDMOVE",
+    "stock": 68
+  }
+]
